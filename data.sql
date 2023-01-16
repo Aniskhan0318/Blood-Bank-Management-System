@@ -1,0 +1,1 @@
+SELECT * FROM blood_bank.patient;
